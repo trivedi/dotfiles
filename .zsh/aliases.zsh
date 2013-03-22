@@ -14,6 +14,12 @@ alias matlab='/Applications/MATLAB_R2012b.app/bin/matlab' # Open Matlab GUI
 alias matlabt='matlab -nodesktop -nosplash' # Starts Matlab inside terminal with no spash screen
 
 
+# Git
+alias repo='octogit create'   # Creates repo: http://github.com/myusuf3/octogit
+alias add='git add'
+alias commit='git commit -m'
+alias push='git push origin master'
+
 alias vedit='mvim ~/.vimrc'
 
 
